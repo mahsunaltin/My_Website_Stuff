@@ -31,7 +31,7 @@
 			// Configuration related to navigation
 			fixedNavigation:		false,		// (boolean) Boolean that informs if the navigation (next and prev button) will be fixed or not in the interface.
 			// Configuration related to images
-			imageLoading:			'https://2.bp.blogspot.com/-SU3cDoyzloY/W60mQmp24HI/AAAAAAAAAsU/a9R7i7w4080o4gCGMnYENF3xXY2qZvHTACLcBGAs/s1600/lg.rotating-balls-spinner.gif',		// (string) Path and the name of the loading icon
+			imageLoading:			'https://3.bp.blogspot.com/-_1gHfhZKWb8/XHMc-1cCFvI/AAAAAAAABEg/ZfaZWfVcvFoXaJWCAJiHTdGaOeKeguu7QCLcBGAs/s1600/2.gif',		// (string) Path and the name of the loading icon
 			imageBtnPrev:			'https://1.bp.blogspot.com/-Gb9yyNRLTQU/W60pgEK-cdI/AAAAAAAAAs0/QMh9ih1nUoQCvrEkYVIfoArp706wcLHtwCLcBGAs/s1600/backward_prev_previous_icon_128.png',			// (string) Path and the name of the prev button image
 			imageBtnNext:			'https://3.bp.blogspot.com/-64kaN81wd94/W60pgYd6-fI/AAAAAAAAAs8/_NzLZPGkhkw92cpLAayqQe7x6JKbQcFrACLcBGAs/s1600/forward_next_skip_icon_128.png',			// (string) Path and the name of the next button image
 			imageBtnClose:			'https://3.bp.blogspot.com/-pfjyNWV0ZOg/W60pgBKMHLI/AAAAAAAAAs4/GHGcT_sQVOgnPCyi_24lJ6AMARQE5Z8xgCLcBGAs/s1600/circle-close-delete-remove-glyph-128.png',		// (string) Path and the name of the close btn
